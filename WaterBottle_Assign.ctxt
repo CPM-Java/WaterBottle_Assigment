@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ emptyBottle()
+comment0.text=\n\ This\ method\ removes\ the\ bottle's\ contents\n\ \n\ @return\ \ \ \ \ a\ String\ literal\ indicating\ the\ bottle\ is\ empty\ \n
+comment1.params=stuff
+comment1.target=java.lang.String\ fillBottle(java.lang.String)
+comment1.text=\n\ This\ method\ fills\ the\ bottle\ to\ CAPACITY\ with\ the\ specified\ beverage.\n\ It\ requires\ that\ the\ client\ specify\ the\ type\ of\ beverage\ as\ a\ String\ literal\n\ When\ you\ make\ a\ String\ literal\ remember\ to\ put\ it\ in\ quotes\:\ "orange\ juice"\n\ \n\ @param\ \ \ stuff\ a\ String\ identifier\ specifying\ the\ type\ of\ beverage\ in\ the\ bottle\n\ @return\ \ \ \ \ a\ String\ literal\ indicating\ the\ bottle\ is\ full\ \n
+comment2.params=gulpAmt
+comment2.target=java.lang.String\ drink(double)
+comment2.text=\n\ This\ method\ simulates\ another\ object\ consuming\ the\ beverage\ from\ the\ bottle.\n\ It\ requires\ that\ the\ client\ specify\ the\ amount\ of\ beverage\ consumed\ in\ ounces.\n\ \n\ @param\ \ \ gulpAmt\ a\ double\ representing\ the\ amount\ consumed\ in\ ounces\n\ @return\ \ \ \ \ a\ String\ literal\ indicating\ the\ bottle\ is\ empty\ or\ the\ client\ object\ has\ been\ refreshed\ \n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
